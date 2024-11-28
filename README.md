@@ -1,3 +1,5 @@
+## React-Films
+
 Welcome to the React Films project page.
 
 This web application allows you to view a list of Batman movies. The page has a search by movie title, as well as radio buttons for displaying specific movies or TV shows.
